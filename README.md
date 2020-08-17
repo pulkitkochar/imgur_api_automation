@@ -16,7 +16,7 @@ source automation-env/bin/activate
 pip install -r requirements.txt
 
 
-## Driver Installation ##
+## Driver Installation ## (Not needed for api testing)
 For Firefox:
 brew install geckodriver
 
